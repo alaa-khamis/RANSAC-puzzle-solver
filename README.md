@@ -1,6 +1,6 @@
 # RANSAC based puzzle solver
 
-- By: <a href="https://alaa-khamis.github.io/">Alaa Khamis</a>
+- By: <a href="https://github.com/alaa-khamis">Alaa Khamis</a>
 
 ### Algorithm Overview
 
