@@ -1,7 +1,5 @@
 # RANSAC based puzzle solver
 
-- By: <a href="https://github.com/alaa-khamis">Alaa Khamis</a>
-
 ### Algorithm Overview
 
 We employed a RANSAC-based algorithm to solve the puzzles. The algorithm functions as follows:
